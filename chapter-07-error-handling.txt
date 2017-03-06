@@ -1,0 +1,5 @@
+Clean code is readable, but it must also be robust. These are not conflicting goals. We can
+write robust clean code if we see error handling as a separate concern, something that is
+viewable independently of our main logic. To the degree that we are able to do that, we can
+reason about it independently, and we can make great strides in the maintainability of our
+code.

@@ -1,0 +1,5 @@
+You should take care that your code is nicely formatted. You should choose a set of
+simple rules that govern the format of your code, and then you should consistently apply
+those rules. If you are working on a team, then the team should agree to a single set of
+formatting rules and all members should comply. It helps to have an automated tool that
+can apply those formatting rules for you.

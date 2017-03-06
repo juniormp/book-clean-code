@@ -1,0 +1,9 @@
+Systems must be clean too. An invasive architecture overwhelms the domain logic and
+impacts agility. When the domain logic is obscured, quality suffers because bugs find it
+easier to hide and stories become harder to implement. If agility is compromised, produc-
+tivity suffers and the benefits of TDD are lost.
+At all levels of abstraction, the intent should be clear. This will only happen if you
+write POJOs and you use aspect-like mechanisms to incorporate other implementation
+concerns noninvasively.
+Whether you are designing systems or individual modules, never forget to use the
+simplest thing that can possibly work.

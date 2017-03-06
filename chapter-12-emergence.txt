@@ -1,0 +1,11 @@
+Is there a set of simple practices that can replace experience? Clearly not. On the other
+hand, the practices described in this chapter and in this book are a crystallized form of the
+many decades of experience enjoyed by the authors. Following the practice of simple
+design can and does encourage and enable developers to adhere to good principles and
+patterns that otherwise take years to learn.
+
+According to Kent, a design is “simple” if it follows these rules:
+• Runs all the tests
+• Contains no duplication
+• Expresses the intent of the programmer
+• Minimizes the number of classes and methods

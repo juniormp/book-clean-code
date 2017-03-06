@@ -1,0 +1,17 @@
+
+Books on art don’t promise to make you an artist. All they can do is give you some of the
+tools, techniques, and thought processes that other artists have used. So too this book can-
+not promise to make you a good programmer. It cannot promise to give you “code-sense.”
+
+All it can do is show you the thought processes of good programmers and the tricks, tech-
+niques, and tools that they use.
+
+Just like a book on art, this book will be full of details. There will be lots of code.
+You’ll see good code and you’ll see bad code. You’ll see bad code transformed into good
+code. You’ll see lists of heuristics, disciplines, and techniques. You’ll see example after
+example. After that, it’s up to you.
+
+Remember the old joke about the concert violinist who got lost on his way to a perfor-
+mance? He stopped an old man on the corner and asked him how to get to Carnegie Hall.
+The old man looked at the violinist and the violin tucked under his arm, and said: “Prac-
+tice, son. Practice!”
